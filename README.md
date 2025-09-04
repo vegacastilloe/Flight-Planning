@@ -34,5 +34,5 @@ Una tabla con:
 
 ## 🚀 Ejecución
 
-```bash
-python flight_routes.py
+```bashpython
+flight_planning.py
