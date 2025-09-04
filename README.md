@@ -1,6 +1,21 @@
 # Flight-Planning
 Este proyecto analiza rutas de vuelo entre ciudades con diferentes zonas horarias, calculando la duración total del viaje y la hora de llegada real en UTC y en hora local.
 
+- 🌟 Every Other Day Excel and Power Query Challenges No290🌟 * Author: Omid Motamedisedeh
+ 
+    - Topic: Flight Route Analyzer!
+ 
+ 🔰 Generate the dates of the first Monday of each month in 2025.
+ 
+ 🔗 Link to Excel file:
+ 👉 https://lnkd.in/g4MTvUPN
+
+**My code in Python** 🐍 **for this challenge**
+ 🔗 https://github.com/vegacastilloe/Flight-Planning/blob/main/Flight_Planning.py
+
+
+
+
 # ✈️ Flight Route Analyzer
 
 Este proyecto analiza rutas de vuelo entre ciudades con diferentes zonas horarias, calculando la duración total del viaje y la hora de llegada real en UTC y en hora local.
