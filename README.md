@@ -1,4 +1,5 @@
 # Flight-Planning
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 - 🌟 Every Other Day Excel and Power Query Challenges No290🌟 * Author: Omid Motamedisedeh
  
